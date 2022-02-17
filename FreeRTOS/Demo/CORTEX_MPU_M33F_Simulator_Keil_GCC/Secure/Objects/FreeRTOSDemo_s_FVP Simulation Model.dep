@@ -1,0 +1,60 @@
+Dependencies for Project 'FreeRTOSDemo_s', Target 'FVP Simulation Model': (DO NOT MODIFY !)
+CompilerVersion: 6160000::V6.16::ARMCLANG
+F (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_context.h)(0x61C2EEAA)()
+F (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_context.c)(0x61C2EEAA)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m33 -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mcmse -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-mlittle-endian -gdwarf-4 -O1 -ffunction-sections -I ../Config -I ../../../Source/include -I ../../../Source/portable/GCC/ARM_CM33/secure-I./RTE/Device/ARMCM33_DSP_FP_TZ-I./RTE/_FVP_Simulation_Model-ID:/Temp/ARM/CMSIS/5.8.0/CMSIS/Core/Include-ID:/Temp/ARM/CMSIS/5.8.0/Device/ARM/ARMCM33/Include-D__UVISION_VERSION="536" -D_RTE_ -DARMCM33_DSP_FP_TZ -D_RTE_-o ./objects/secure_context.o -MD)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_context.h)(0x61C2EEAA)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stdint.h)(0x603507D0)
+I (..\Config\FreeRTOSConfig.h)(0x61C2EE64)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_heap.h)(0x61C2EEAA)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stdlib.h)(0x603507D0)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_port_macros.h)(0x61C2EEAA)
+F (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_context_port.c)(0x61C2EEAA)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m33 -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mcmse -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-mlittle-endian -gdwarf-4 -O1 -ffunction-sections -I ../Config -I ../../../Source/include -I ../../../Source/portable/GCC/ARM_CM33/secure-I./RTE/Device/ARMCM33_DSP_FP_TZ-I./RTE/_FVP_Simulation_Model-ID:/Temp/ARM/CMSIS/5.8.0/CMSIS/Core/Include-ID:/Temp/ARM/CMSIS/5.8.0/Device/ARM/ARMCM33/Include-D__UVISION_VERSION="536" -D_RTE_ -DARMCM33_DSP_FP_TZ -D_RTE_-o ./objects/secure_context_port.o -MD)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_context.h)(0x61C2EEAA)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stdint.h)(0x603507D0)
+I (..\Config\FreeRTOSConfig.h)(0x61C2EE64)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_port_macros.h)(0x61C2EEAA)
+F (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_port_macros.h)(0x61C2EEAA)()
+F (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_init.h)(0x61C2EEAA)()
+F (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_init.c)(0x61C2EEAA)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m33 -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mcmse -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-mlittle-endian -gdwarf-4 -O1 -ffunction-sections -I ../Config -I ../../../Source/include -I ../../../Source/portable/GCC/ARM_CM33/secure-I./RTE/Device/ARMCM33_DSP_FP_TZ-I./RTE/_FVP_Simulation_Model-ID:/Temp/ARM/CMSIS/5.8.0/CMSIS/Core/Include-ID:/Temp/ARM/CMSIS/5.8.0/Device/ARM/ARMCM33/Include-D__UVISION_VERSION="536" -D_RTE_ -DARMCM33_DSP_FP_TZ -D_RTE_-o ./objects/secure_init.o -MD)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stdint.h)(0x603507D0)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_init.h)(0x61C2EEAA)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_port_macros.h)(0x61C2EEAA)
+F (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_heap.h)(0x61C2EEAA)()
+F (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_heap.c)(0x61C2EEAA)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m33 -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mcmse -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-mlittle-endian -gdwarf-4 -O1 -ffunction-sections -I ../Config -I ../../../Source/include -I ../../../Source/portable/GCC/ARM_CM33/secure-I./RTE/Device/ARMCM33_DSP_FP_TZ-I./RTE/_FVP_Simulation_Model-ID:/Temp/ARM/CMSIS/5.8.0/CMSIS/Core/Include-ID:/Temp/ARM/CMSIS/5.8.0/Device/ARM/ARMCM33/Include-D__UVISION_VERSION="536" -D_RTE_ -DARMCM33_DSP_FP_TZ -D_RTE_-o ./objects/secure_heap.o -MD)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stdint.h)(0x603507D0)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_heap.h)(0x61C2EEAA)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stdlib.h)(0x603507D0)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_port_macros.h)(0x61C2EEAA)
+F (..\..\Common\ARMv8M\tz_demo\nsc_functions.h)(0x61C2EE64)()
+F (..\..\Common\ARMv8M\tz_demo\nsc_functions.c)(0x61C2EE64)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m33 -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mcmse -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-mlittle-endian -gdwarf-4 -O1 -ffunction-sections -I ../Config -I ../../../Source/include -I ../../../Source/portable/GCC/ARM_CM33/secure-I./RTE/Device/ARMCM33_DSP_FP_TZ-I./RTE/_FVP_Simulation_Model-ID:/Temp/ARM/CMSIS/5.8.0/CMSIS/Core/Include-ID:/Temp/ARM/CMSIS/5.8.0/Device/ARM/ARMCM33/Include-D__UVISION_VERSION="536" -D_RTE_ -DARMCM33_DSP_FP_TZ -D_RTE_-o ./objects/nsc_functions.o -MD)
+I (d:\Keil_v536\ARM\ARMCLANG\include\arm_cmse.h)(0x602A3B7E)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stddef.h)(0x603507D0)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stdint.h)(0x603507D0)
+I (..\..\Common\ARMv8M\tz_demo\nsc_functions.h)(0x61C2EE64)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_port_macros.h)(0x61C2EEAA)
+F (.\main_s.c)(0x61C2EE64)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m33 -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mcmse -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-mlittle-endian -gdwarf-4 -O1 -ffunction-sections -I ../Config -I ../../../Source/include -I ../../../Source/portable/GCC/ARM_CM33/secure-I./RTE/Device/ARMCM33_DSP_FP_TZ-I./RTE/_FVP_Simulation_Model-ID:/Temp/ARM/CMSIS/5.8.0/CMSIS/Core/Include-ID:/Temp/ARM/CMSIS/5.8.0/Device/ARM/ARMCM33/Include-D__UVISION_VERSION="536" -D_RTE_ -DARMCM33_DSP_FP_TZ -D_RTE_-o ./objects/main_s.o -MD)
+I (d:\Keil_v536\ARM\ARMCLANG\include\arm_cmse.h)(0x602A3B7E)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stddef.h)(0x603507D0)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stdint.h)(0x603507D0)
+I (RTE\_FVP_Simulation_Model\RTE_Components.h)(0x61E21BDD)
+I (D:\Temp\ARM\CMSIS\5.8.0\Device\ARM\ARMCM33\Include\ARMCM33_DSP_FP_TZ.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm33.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv8.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\Device\ARM\ARMCM33\Include\system_ARMCM33.h)(0x60D3E8E2)
+I (..\..\..\Source\portable\GCC\ARM_CM33\secure\secure_port_macros.h)(0x61C2EEAA)
+F (RTE\Device\ARMCM33_DSP_FP_TZ\ARMCM33_ac6_s.sct)(0x60D3E8E2)()
+F (RTE\Device\ARMCM33_DSP_FP_TZ\partition_ARMCM33.h)(0x61C2EE64)()
+F (RTE\Device\ARMCM33_DSP_FP_TZ\startup_ARMCM33.S)(0x61C2EE64)(--cpu=Cortex-M33 --fpu=FPv5-SP --li -g-I.\RTE\Device\ARMCM33_DSP_FP_TZ-I.\RTE\_FVP_Simulation_Model-ID:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\Temp\ARM\CMSIS\5.8.0\Device\ARM\ARMCM33\Include--pd "__UVISION_VERSION SETA 536"--pd "_RTE_ SETA 1"--pd "ARMCM33_DSP_FP_TZ SETA 1"--pd "_RTE_ SETA 1"--list .\listings\startup_armcm33.lst--xref -o .\objects\startup_armcm33.o--depend .\objects\startup_armcm33.d)
+F (RTE\Device\ARMCM33_DSP_FP_TZ\system_ARMCM33.c)(0x61C2EE64)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m33 -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mcmse -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-mlittle-endian -gdwarf-4 -O1 -ffunction-sections -I ../Config -I ../../../Source/include -I ../../../Source/portable/GCC/ARM_CM33/secure-I./RTE/Device/ARMCM33_DSP_FP_TZ-I./RTE/_FVP_Simulation_Model-ID:/Temp/ARM/CMSIS/5.8.0/CMSIS/Core/Include-ID:/Temp/ARM/CMSIS/5.8.0/Device/ARM/ARMCM33/Include-D__UVISION_VERSION="536" -D_RTE_ -DARMCM33_DSP_FP_TZ -D_RTE_-o ./objects/system_armcm33.o -MD)
+I (D:\Temp\ARM\CMSIS\5.8.0\Device\ARM\ARMCM33\Include\ARMCM33_DSP_FP_TZ.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm33.h)(0x60D3E8E2)
+I (d:\Keil_v536\ARM\ARMCLANG\include\stdint.h)(0x603507D0)
+I (D:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv8.h)(0x60D3E8E2)
+I (D:\Temp\ARM\CMSIS\5.8.0\Device\ARM\ARMCM33\Include\system_ARMCM33.h)(0x60D3E8E2)
+I (RTE\Device\ARMCM33_DSP_FP_TZ\partition_ARMCM33.h)(0x61C2EE64)

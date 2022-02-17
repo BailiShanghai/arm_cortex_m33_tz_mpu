@@ -1,0 +1,14 @@
+--cpu=Cortex-M33
+".\objects\secure_context.o"
+".\objects\secure_context_port.o"
+".\objects\secure_init.o"
+".\objects\secure_heap.o"
+".\objects\nsc_functions.o"
+".\objects\main_s.o"
+".\objects\startup_armcm33.o"
+".\objects\system_armcm33.o"
+--strict --scatter ".\FreeRTOSDemo_s.sct"
+--import-cmse-lib-out="..\Secure\Objects\FreeRTOSDemo_s_CMSE_Lib.o"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\FreeRTOSDemo_s.map" -o .\Objects\FreeRTOSDemo_s.axf
